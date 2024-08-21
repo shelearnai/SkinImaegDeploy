@@ -12,7 +12,7 @@ Flask Web Application: Provides a simple and intuitive web interface where users
 1. Clone the Repository
 bash
 Copy code
-[git clone https://github.com/your-username/skin-disease-classification.git](https://github.com/shelearnai/SkinImaegDeploy.git)
+[(https://github.com/shelearnai/SkinImaegDeploy.git)]
 cd SkinImaegDeploy
 2. Set Up the Virtual Environment (Optional)
 It's recommended to use a virtual environment to manage dependencies.
